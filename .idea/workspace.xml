@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dad5a6fa-9e2b-4e5c-96f8-f0610c3bbdfc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Basico/datos simples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basico/datos_simples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,9 @@
   "keyToString": {
     "Python.condicionales.executor": "Run",
     "Python.datos_compuestos.executor": "Run",
+    "Python.metodos_cadenas.executor": "Run",
     "Python.op_comparacion.executor": "Run",
+    "Python.op_logicos.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
