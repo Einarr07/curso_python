@@ -38,7 +38,10 @@
   "keyToString": {
     "Python.condicionales.executor": "Run",
     "Python.datos_compuestos.executor": "Run",
+    "Python.input.executor": "Run",
     "Python.metodos_cadenas.executor": "Run",
+    "Python.metodos_dicc.executor": "Run",
+    "Python.metodos_listas.executor": "Run",
     "Python.op_comparacion.executor": "Run",
     "Python.op_logicos.executor": "Run",
     "Python.variables.executor": "Run",
