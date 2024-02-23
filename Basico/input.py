@@ -12,5 +12,3 @@ numero2 = float(input("Ingresa un numero flotante \nEjemplo: 5.9: ")) # Flotante
 print(f"Hola {nombre}")
 print(f"El número entero que ingresaste es: {numero}")
 print(f"El número flotante que ingresaste es: {numero2}")
-
-

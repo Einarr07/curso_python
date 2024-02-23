@@ -18,4 +18,3 @@ division_baja = 12 // 5 # Devuelve un entero redondeado hacia abajo
 
 # resto o módulo
 resto = 12 % 5
-

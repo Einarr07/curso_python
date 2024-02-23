@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="dad5a6fa-9e2b-4e5c-96f8-f0610c3bbdfc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basico/input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basico/input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basico/op_aritmeticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basico/op_aritmeticos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basico/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basico/variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +41,12 @@
   "keyToString": {
     "Python.condicionales.executor": "Run",
     "Python.datos_compuestos.executor": "Run",
+    "Python.ejercicio 1.executor": "Run",
     "Python.input.executor": "Run",
     "Python.metodos_cadenas.executor": "Run",
     "Python.metodos_dicc.executor": "Run",
     "Python.metodos_listas.executor": "Run",
+    "Python.op_aritmeticos.executor": "Run",
     "Python.op_comparacion.executor": "Run",
     "Python.op_logicos.executor": "Run",
     "Python.variables.executor": "Run",
