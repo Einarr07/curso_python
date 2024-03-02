@@ -37,7 +37,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.condicionales.executor": "Run",
+    "Python.conjuntos.executor": "Run",
     "Python.datos_compuestos.executor": "Run",
+    "Python.desempaquetado.executor": "Run",
+    "Python.diccionarios.executor": "Run",
     "Python.ejercicio 1.executor": "Run",
     "Python.ejercicio2.executor": "Run",
     "Python.input.executor": "Run",
@@ -47,6 +50,7 @@
     "Python.op_aritmeticos.executor": "Run",
     "Python.op_comparacion.executor": "Run",
     "Python.op_logicos.executor": "Run",
+    "Python.tuplas.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -54,6 +58,11 @@
     "last_opened_file_path": "C:/Users/ASUS/PycharmProjects/Cursos_de_programacion"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\PycharmProjects\Cursos_de_programacion\Basico_intermedio\Variables 2.0" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
