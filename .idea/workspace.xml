@@ -34,30 +34,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.condicionales.executor": "Run",
-    "Python.conjuntos.executor": "Run",
-    "Python.datos_compuestos.executor": "Run",
-    "Python.desempaquetado.executor": "Run",
-    "Python.diccionarios.executor": "Run",
-    "Python.ejercicio 1.executor": "Run",
-    "Python.ejercicio2.executor": "Run",
-    "Python.input.executor": "Run",
-    "Python.metodos_cadenas.executor": "Run",
-    "Python.metodos_dicc.executor": "Run",
-    "Python.metodos_listas.executor": "Run",
-    "Python.op_aritmeticos.executor": "Run",
-    "Python.op_comparacion.executor": "Run",
-    "Python.op_logicos.executor": "Run",
-    "Python.tuplas.executor": "Run",
-    "Python.variables.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "cursoPython",
-    "last_opened_file_path": "C:/Users/ASUS/PycharmProjects/Cursos_de_programacion"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.condicionales.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conjuntos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datos_compuestos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desempaquetado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diccionarios.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.iterar_conjuntos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.iterar_diccionario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.iterar_listas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mas_iteraciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.metodos_cadenas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.metodos_dicc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.metodos_listas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.op_aritmeticos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.op_comparacion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.op_logicos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuplas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;cursoPython&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/PycharmProjects/Cursos_de_programacion&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\PycharmProjects\Cursos_de_programacion\Basico_intermedio\Variables 2.0" />
@@ -66,7 +70,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-67fca87a943a-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.259" />
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
