@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="dad5a6fa-9e2b-4e5c-96f8-f0610c3bbdfc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basico_intermedio/bucles/blucle_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basico_intermedio/Bucles/blucle_while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basico_intermedio/bucles/iterar_diccionario.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basico_intermedio/Bucles/iterar_diccionario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basico_intermedio/bucles/iterar_elementos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basico_intermedio/Bucles/iterar_elementos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basico_intermedio/bucles/mas_iteraciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basico_intermedio/Bucles/mas_iteraciones.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,34 +38,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.condicionales.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conjuntos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.datos_compuestos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desempaquetado.executor&quot;: &quot;Run&quot;,
-    &quot;Python.diccionarios.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejercicio 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejercicio2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.input.executor&quot;: &quot;Run&quot;,
-    &quot;Python.iterar_conjuntos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.iterar_diccionario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.iterar_listas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mas_iteraciones.executor&quot;: &quot;Run&quot;,
-    &quot;Python.metodos_cadenas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.metodos_dicc.executor&quot;: &quot;Run&quot;,
-    &quot;Python.metodos_listas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.op_aritmeticos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.op_comparacion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.op_logicos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuplas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;cursoPython&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/PycharmProjects/Cursos_de_programacion&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Funciones_datos_extra.executor": "Run",
+    "Python.blucle_while.executor": "Run",
+    "Python.build_in.executor": "Run",
+    "Python.condicionales.executor": "Run",
+    "Python.conjuntos.executor": "Run",
+    "Python.crear_funciones.executor": "Run",
+    "Python.datos_compuestos.executor": "Run",
+    "Python.desempaquetado.executor": "Run",
+    "Python.diccionarios.executor": "Run",
+    "Python.ejercicio 1.executor": "Run",
+    "Python.ejercicio2.executor": "Run",
+    "Python.funciones_lambda.executor": "Run",
+    "Python.input.executor": "Run",
+    "Python.iterar_conjuntos.executor": "Run",
+    "Python.iterar_diccionario.executor": "Run",
+    "Python.iterar_listas.executor": "Run",
+    "Python.mas_iteraciones.executor": "Run",
+    "Python.metodos_cadenas.executor": "Run",
+    "Python.metodos_dicc.executor": "Run",
+    "Python.metodos_listas.executor": "Run",
+    "Python.op_aritmeticos.executor": "Run",
+    "Python.op_comparacion.executor": "Run",
+    "Python.op_logicos.executor": "Run",
+    "Python.parametro_args.executor": "Run",
+    "Python.tuplas.executor": "Run",
+    "Python.variables.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "cursoPython",
+    "last_opened_file_path": "C:/Users/ASUS/PycharmProjects/Cursos_de_programacion"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\PycharmProjects\Cursos_de_programacion\Basico_intermedio\Variables 2.0" />
