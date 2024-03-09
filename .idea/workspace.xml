@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dad5a6fa-9e2b-4e5c-96f8-f0610c3bbdfc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basico_intermedio/bucles/blucle_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basico_intermedio/Bucles/blucle_while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basico_intermedio/bucles/iterar_diccionario.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basico_intermedio/Bucles/iterar_diccionario.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basico_intermedio/bucles/iterar_elementos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basico_intermedio/Bucles/iterar_elementos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basico_intermedio/bucles/mas_iteraciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basico_intermedio/Bucles/mas_iteraciones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basico/metodos_listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basico/metodos_listas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +48,8 @@
     "Python.diccionarios.executor": "Run",
     "Python.ejercicio 1.executor": "Run",
     "Python.ejercicio2.executor": "Run",
+    "Python.ejercicio_1.executor": "Run",
+    "Python.ejercicio_1_dalto.executor": "Run",
     "Python.funciones_lambda.executor": "Run",
     "Python.input.executor": "Run",
     "Python.iterar_conjuntos.executor": "Run",

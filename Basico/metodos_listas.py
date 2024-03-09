@@ -26,7 +26,7 @@ lista.remove(546)
 
 lista2 = [123,654,987,51,321,87,54,321,6874,]
 # Ordenando los elementos de una lista (Esto solo funciona con numeros o valores booleanos)
-# Si utilizamos el valor sort(reverse=True) los ordenamos de forma desendente
+# Si utilizamos el valor sort(reverse=True) los ordenamos de forma descendente (De mayor a menor)
 lista2.sort()
 
 # Invertimos los elementos de una lista
