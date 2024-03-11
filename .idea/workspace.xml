@@ -60,10 +60,15 @@
     "Python.metodos_cadenas.executor": "Run",
     "Python.metodos_dicc.executor": "Run",
     "Python.metodos_listas.executor": "Run",
+    "Python.modulo_saludar.executor": "Run",
+    "Python.modulos.executor": "Run",
+    "Python.modulos_2.0.executor": "Run",
     "Python.op_aritmeticos.executor": "Run",
     "Python.op_comparacion.executor": "Run",
     "Python.op_logicos.executor": "Run",
+    "Python.paquete.executor": "Run",
     "Python.parametro_args.executor": "Run",
+    "Python.saludar.executor": "Run",
     "Python.tuplas.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -74,6 +79,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\PycharmProjects\Cursos_de_programacion\Intermedio\paquetes" />
+      <recent name="C:\Users\ASUS\PycharmProjects\Cursos_de_programacion\Intermedio\modulos" />
       <recent name="C:\Users\ASUS\PycharmProjects\Cursos_de_programacion\Basico_intermedio\Variables 2.0" />
     </key>
   </component>
