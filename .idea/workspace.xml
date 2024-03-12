@@ -37,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Funciones_datos_extra.executor": "Run",
+    "Python.agregar_txt.executor": "Run",
     "Python.blucle_while.executor": "Run",
     "Python.build_in.executor": "Run",
     "Python.condicionales.executor": "Run",
@@ -51,11 +52,14 @@
     "Python.ejercicio_1_dalto.executor": "Run",
     "Python.ejercicio_2.executor": "Run",
     "Python.ejercicio_3.executor": "Run",
+    "Python.escribir_txt.executor": "Run",
     "Python.funciones_lambda.executor": "Run",
     "Python.input.executor": "Run",
     "Python.iterar_conjuntos.executor": "Run",
     "Python.iterar_diccionario.executor": "Run",
     "Python.iterar_listas.executor": "Run",
+    "Python.leer_txt.executor": "Run",
+    "Python.leer_txt_optimamente.executor": "Run",
     "Python.mas_iteraciones.executor": "Run",
     "Python.metodos_cadenas.executor": "Run",
     "Python.metodos_dicc.executor": "Run",
