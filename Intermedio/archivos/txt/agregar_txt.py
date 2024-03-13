@@ -1,4 +1,4 @@
-with open("mensaje.txt", "a" ,encoding="UTF-8") as archivo:
+with open("mensaje.txt", "a" , encoding="UTF-8") as archivo:
     # Usando un bucle para agregar varias lineas
     archivo.write("\n")
     for i in range(5):

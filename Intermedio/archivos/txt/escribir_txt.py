@@ -1,5 +1,5 @@
 # Con el permiso "w" si no encuentra el arvhico lo crea
-with open("mensaje.txt", "w" ,encoding="UTF-8") as archivo:
+with open("mensaje.txt", "w" , encoding="UTF-8") as archivo:
     # Sobre escribiendo el archivo
     # archivo.write("AJAJA, reescribi tu archivo, gil")
 
