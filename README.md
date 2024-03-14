@@ -21,6 +21,8 @@
   <a href="https://youtu.be/nKPbfIU442g?si=3i2K6rpAt831eFPq" target="_blank">Curso de python por SOY DALTO</a>
 </div>
 
+---
+
 #### ¿Qué contiene? 😏
 <div>
   <p>En el contenido de este github se encuentran los ejercicios realizados que utiliza dalto para sus explicaciones, donde encontramos 4 niveles: </p>
