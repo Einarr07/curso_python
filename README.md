@@ -25,7 +25,7 @@
 
 ### ¿Qué contiene? 😏
 <div>
-  <p>En el contenido de este github se encuentran los ejercicios realizados que utiliza dalto para sus explicaciones, donde encontramos 4 niveles: </p>
+  <p>En el contenido de este github se encuentran los ejercicios realizados que utiliza Dalto para sus explicaciones, donde encontramos 4 niveles: </p>
   <ul>
     <li>Basico</li>
     <li>Basico Intermedio</li>
@@ -34,5 +34,5 @@
   </ul>
   <p> <strong>NOTA:</strong> El proporcito de este github es para hechar un vistaso a cosas puntuales que vi en el curso, para cosas que no se encuentren 
   dentro del mismo se recomienda revisar la documentación oficial de pyhton </p>
-  <a href="https://docs.python.org/es/3.13/" target="_blank">Documentaicón</a>
+  <a href="https://docs.python.org/es/3.13/" target="_blank">Documentación</a>
 </div>
