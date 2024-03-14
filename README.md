@@ -8,7 +8,7 @@
 ## ID 🫡
 
 <div style="text-align: center">
-  <p>Esste curso fue realizado con el ID pycharm</p>
+  <p>Este curso fue realizado con el ID pycharm</p>
   <img src="https://github.com/Einarr07/Cursos_de_programacion/assets/96399138/7a64af0f-6ee6-44e7-bd1a-1ba2a0c59d0b alt=" ID pycharm" width="700px">
 </div>
 
