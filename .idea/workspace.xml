@@ -56,6 +56,8 @@
     "Python.escribir_txt.executor": "Run",
     "Python.funciones_lambda.executor": "Run",
     "Python.grafico_de_barras.executor": "Run",
+    "Python.grafico_de_bigotes.executor": "Run",
+    "Python.grafico_de_dispersion.executor": "Run",
     "Python.grafico_lineal.executor": "Run",
     "Python.input.executor": "Run",
     "Python.iterar_conjuntos.executor": "Run",
@@ -85,7 +87,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "cursoPython",
-    "last_opened_file_path": "C:/Users/ASUS/PycharmProjects/Cursos_de_programacion/Intermedio/archivos/archivos_problemas_resueltos",
+    "last_opened_file_path": "C:/Users/ASUS/PycharmProjects/Cursos_de_programacion",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
