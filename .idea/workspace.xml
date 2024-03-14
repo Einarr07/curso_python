@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dad5a6fa-9e2b-4e5c-96f8-f0610c3bbdfc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermedio/archivos/agregar_txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermedio/archivos/txt/agregar_txt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermedio/archivos/escribir_txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermedio/archivos/txt/escribir_txt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermedio/archivos/leer_txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermedio/archivos/txt/leer_txt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermedio/archivos/leer_txt_optimamente.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intermedio/archivos/txt/leer_txt_optimamente.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermedio/archivos/mensaje.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermedio/archivos/txt/mensaje.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +55,8 @@
     "Python.ejercicio_3.executor": "Run",
     "Python.escribir_txt.executor": "Run",
     "Python.funciones_lambda.executor": "Run",
+    "Python.grafico_de_barras.executor": "Run",
+    "Python.grafico_lineal.executor": "Run",
     "Python.input.executor": "Run",
     "Python.iterar_conjuntos.executor": "Run",
     "Python.iterar_diccionario.executor": "Run",
@@ -80,17 +77,22 @@
     "Python.op_logicos.executor": "Run",
     "Python.paquete.executor": "Run",
     "Python.parametro_args.executor": "Run",
+    "Python.problema_txt.executor": "Run",
+    "Python.problemas_csv.executor": "Run",
     "Python.saludar.executor": "Run",
     "Python.tuplas.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "cursoPython",
-    "last_opened_file_path": "C:/Users/ASUS/PycharmProjects/Cursos_de_programacion",
+    "last_opened_file_path": "C:/Users/ASUS/PycharmProjects/Cursos_de_programacion/Intermedio/archivos/archivos_problemas_resueltos",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\PycharmProjects\Cursos_de_programacion\Intermedio\archivos\archivos_problemas_resueltos" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\PycharmProjects\Cursos_de_programacion\Intermedio\archivos\txt" />
       <recent name="C:\Users\ASUS\PycharmProjects\Cursos_de_programacion\Intermedio\paquetes" />
