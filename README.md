@@ -23,7 +23,7 @@
 
 ---
 
-#### ¿Qué contiene? 😏
+### ¿Qué contiene? 😏
 <div>
   <p>En el contenido de este github se encuentran los ejercicios realizados que utiliza dalto para sus explicaciones, donde encontramos 4 niveles: </p>
   <ul>
