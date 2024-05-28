@@ -5,7 +5,7 @@
 
 ---
 
-## ID 🫡
+## IDE 🫡
 
 <div style="text-align: center">
   <p>Este curso fue realizado con el ID pycharm</p>
